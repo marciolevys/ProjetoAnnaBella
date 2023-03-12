@@ -1,0 +1,39 @@
+body {
+    background: #D2D2C1 url('images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#content {
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+.img-campaigns {
+    border: 10px solid #C3C3AE
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0px 20px;
+}
